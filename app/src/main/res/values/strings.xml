@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
     <string name="hello_world">Hello World</string>
+    <string name="hello">Hello</string>
+    <string name="jnu">JNU</string>
+    <string name="change_text">change text</string>
 </resources>
