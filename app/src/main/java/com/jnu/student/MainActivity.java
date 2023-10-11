@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = findViewById(R.id.text_vciew_hellow_world);
         textView.setText(getString(R.string.hello_world));
     }
+
 }
